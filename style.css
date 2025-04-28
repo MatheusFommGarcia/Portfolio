@@ -9,5 +9,15 @@
 --color-03: #949499;
 --color-04: #404940;
 --color-05: #303030;
+}
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    
 }
