@@ -132,3 +132,11 @@ section {
     flex-direction: row;
     justify-content: space-evenly;
 }
+
+.services-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 25rem;
+    margin-bottom: 1rem;
+}
