@@ -537,7 +537,7 @@ section {
 }
 
 .social-media a:nth-child(5) {
-    background-color: #DD4B39; /* Email (Gmail-style) */
+    background-color: #ff0000; /* Email (Gmail-style) */
 }
 
 /* Hover */
